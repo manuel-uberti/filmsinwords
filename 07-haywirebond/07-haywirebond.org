@@ -1,0 +1,71 @@
+#+BLOG: filmsinwords
+#+POSTID: 58
+#+DATE: [2015-11-13 Fri 09:45]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Film criticism
+#+TAGS:
+#+DESCRIPTION:
+#+TITLE: The body of a spy
+
+#+CAPTION: Haywire (Steven Soderbergh, USA)
+#+ATTR_HTML: :alt Haywire image :title Haywire :align center
+[[file:haywire.jpg]]
+
+Returning to Steven Soderbergh’s /Haywire/ right after Sam Mendes’ /Spectre/ turned
+out to be a revealing experience.
+
+Let’s check some data first.
+
+|         | Budget        | Filming                  | Box office (US $) |
+|---------+---------------+--------------------------+-------------------|
+| Haywire | 23$ million   | 2 Feb 2010 - 25 Mar 2010 | 59.7$ million     |
+| Spectre | ~250$ million | 8 Dec 2014 - 5 Jul 2015  | [[http://www.boxofficemojo.com/movies/?id=bond24.htm][310.2$ million]]    |
+
+I find these data particularly interesting, especially if we consider Haywire
+all-star cast. Also, filming locations differ quite a bit in numbers and
+variety.
+
+|         | Filming locations                   |
+|---------+-------------------------------------|
+| Haywire | [[http://www.imdb.com/title/tt1506999/locations][USA, Spain, Ireland]]                 |
+| Spectre | [[http://www.imdb.com/title/tt2379713/locations][Mexico, Austria, Morocco, Italy, UK]] |
+
+I know, we don’t need strong evidence to see that Spectre is a /bigger/
+film. However, what strikes me the most is how much Soderbergh accomplished with
+less money and less time at his disposal.
+
+Haywire is usually praised for the solid action scenes, superbly delivered by
+Gina Carano’s own stunts. The lack of score during the fights highlights the
+tension even more.
+
+Haywire is so much more than that, though, and it takes a second viewing to
+understand that Soderbergh did with Carano something akin to what he did with
+Jennifer Lopez in the underrated /Out of Sight/. He worked on their bodies and
+their acting, pulling out elegance (Lopez) and masculine sexuality (Carano) in
+every camera movement.
+
+#+CAPTION: Spectre (Sam Mendes, UK)
+#+ATTR_HTML: :alt Spectre image :title Spectre :align center
+[[file:spectre-craig-bellucci.jpeg]]
+
+Mendes treated Daniel Craig’s body and charm in an analogous way in /Skyfall/ and
+/Spectre/. Sex is a menace, not an exotic pleasure anymore. Mendes knows that, but
+he seems to focus more on his surrounding sets than his bodies. He did
+understand the relevance of 007 body in /Skyfall/, but he deliberately chose not
+to pursue that idea in /Spectre/. The last entry in the series goes back to what
+Bond has always been: a one-dimensional character.
+
+And that’s where all the brilliance of Haywire lies. The body of Gina Carano is
+not just a seductive tool, nor it is a mannequin for a volatile display of
+luxuries. It is the central, physical piece of a non-linear narration and it
+holds everything together. Soderbergh plays with the beauty of his bodies. He
+hugs them, breaks them, photographs them, sculpts them for our own very
+amusement.
+
+
+
+
+
+
+# haywire.jpg http://filmsinwords.files.wordpress.com/2015/11/wpid-haywire.jpg
+# spectre-craig-bellucci.jpeg http://filmsinwords.files.wordpress.com/2015/11/wpid-spectre-craig-bellucci.jpeg
