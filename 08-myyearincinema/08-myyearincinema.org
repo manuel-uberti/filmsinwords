@@ -1,0 +1,60 @@
+#+BLOG: filmsinwords
+#+POSTID: 66
+#+DATE: [2015-12-19 Sat 11:36]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Best of
+#+TAGS:
+#+DESCRIPTION:
+#+TITLE: My 2015 in Cinema
+
+#+CAPTION: My 2015 in Cinema
+#+ATTR_HTML: :alt My 2015 in Cinema image :title cover :align center
+[[file:cover.jpg]]
+
+I’ve been meaning to sum up this ending year for a while, but I had some
+films left to watch and I just wanted to take them into consideration before
+drawing conclusions.
+
+I didn’t have the chance to go to film festivals (well, aside from [[http://www.festivalaltovicentino.it][the one I am
+in charge of]]), but as usual cinema rules a significant part of my life.
+
+2015 has been a year with great surprises. Off the top of my head and in no
+particular order:
+
+- George Miller came back to reinvigorate the action genre and claim his much
+  deserved crown;
+- Hou Hsiao-Hsien showed wuxia can still be fascinating and poetic;
+- Ryan Coogler and Guillermo Del Toro crafted their masterpieces;
+- Todd Haynes has never been so delicate and charming;
+- Nanni Moretti has delivered one of his best films in recent years;
+- Sam Mendes finally remembered how 007 really used to be;
+- Steven Spielberg put himself on top of popular auterism again;
+- Quentin Tarantino went political and found one of the highest point of his
+  career;
+- Al Pacino proved he can still act the hell out of a character;
+- Hong Kong is slowly finding the spirit that it seemed to have lost;
+- Alejandro Iñarritu looked for Herzog and Coppola but didn’t make it.
+
+2015 has also been the year where I could finally put my eyes on /Citizenfour/, a
+documentary so necessary and vital I’m always baffled whenever I find someone
+who hasn’t watched it and thought about it yet.
+
+These are the films I liked the most, the ones able to keep my love for cinema
+alive with their images and sounds. I’m listing them sorted by date of viewing.
+
+- /Citizenfour/
+- /Mad Max Fury Road/
+- /Danny Collins/
+- /Two Thumbs Up/
+- /Love And Mercy/
+- /The Assassin/
+- /Spectre/
+- /Mia Madre/
+- /The Salvation/
+- /Crimson Peak/
+- /Carol/
+- /Creed/
+- /The Hateful Height/
+- /Bridge of Spies/
+
+# cover.jpg http://filmsinwords.files.wordpress.com/2015/12/cover.jpg
