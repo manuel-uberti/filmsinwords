@@ -54,8 +54,8 @@ be the same again.
 **
 
 *** Links
-**** [[http://moviemezzanine.com/now-playing-hail-caesar/][Now Playing: “Hail, Caesar!”]] by Vikram Murthi
-**** [[http://www.slate.com/articles/arts/books/2016/02/an_interview_with_a_o_scott_about_oscarssowhite_better_living_through_criticism.html][An Interview with A.O. Scott]] by Isaac Chotiner
-**** [[http://reverseshot.org/features/2174/sundance_2016][Sundance Film Festival 2016]] by Michael Koresky
+- [[http://moviemezzanine.com/now-playing-hail-caesar/][Now Playing: “Hail, Caesar!”]] by Vikram Murthi
+- [[http://www.slate.com/articles/arts/books/2016/02/an_interview_with_a_o_scott_about_oscarssowhite_better_living_through_criticism.html][An Interview with A.O. Scott]] by Isaac Chotiner
+- [[http://reverseshot.org/features/2174/sundance_2016][Sundance Film Festival 2016]] by Michael Koresky
 
 # bos.jpg http://filmsinwords.files.wordpress.com/2016/02/bos.jpg
