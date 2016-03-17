@@ -1,0 +1,63 @@
+#+BLOG: filmsinwords
+#+POSTID: 97
+#+DATE: [2016-03-17 Thu 15:49]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Cinephilia
+#+TAGS:
+#+DESCRIPTION:
+#+TITLE: On dubbing
+
+#+CAPTION: Mountains May Depart (Jia Zhangke, CH)
+#+ATTR_HTML: :alt Mountains May Depart image :title Mountains May Depart :align center
+[[file:mmd.png]]
+
+I grew up with dubbed films. Up until I was 23 years old, I had never watched a
+film in its original language. Even when I started collecting DVDs and the
+original audio track was presently available to me, I preferred relying upon the
+Italian dubbing.
+
+It took my better half and a great stretch of my mind to finally abandon myself
+to the beauty of the language the film actually uses. I was afraid to let my
+eyes distracted from the subtitles, because I was firmly convinced I would lose
+some important details.
+
+Nonsense. Soon I discovered Italy misses so many films every year, and the only
+legal manner to watch them was buying DVDs from other countries. However, more
+important than my struggle is the preciousness of other languages.
+
+Accents, dialects, entire cultural heritage enabled me to appreciate films and
+series on another level. Luckily enough, I missed /The Wire/ when it was
+distributed in Italy, so when I eventually watched it I could lose myself in the
+peculiar Baltimore English.
+
+Dubbing transplants a film right into my country soil, reducing foreign
+languages and cultures to a surrogate performance. Why should Toshiro Mifune
+speak a perfect Italian? This is a basic question I will never forget myself for
+not asking before.
+
+Dubbing also impedes proper film criticism. It is hard to believe an Italian
+film critic who judges an actress or an actor performance without hearing her or
+his own true voice. There is a whole spectrum of emotions and signs that only
+the voice can convey, and the best actresses and actors works on and with their
+voices precisely to make their characters alive.
+
+The perfect example of this is Robin Williams. Despite the best efforts of [[https://it.wikipedia.org/wiki/Carlo_Valli][Carlo
+Valli]], watching /Dead Poets Society/ dubbed in Italian is a miserable
+experience. William’s deep and warm voice is just as unique as the way he
+accompanies it with the calculated movements of his body.
+
+Neither a powerful television nor superb speakers can replace the joy of
+watching a film in a movie theatre. Unfortunately, Italy is so proud of its
+dubbing, I can only dream of seeing more films screened in their original
+language.
+
+**
+
+*** Links
+- [[https://vimeo.com/157974363][Johnnie To’s shadowplay: a cinema of space & orientation]] by Rowena Santos Aquino
+- [[http://www.cinemaspartan.com/interview-w-glenn-heath-jr/][Interview with Glenn Heath Jr.]] by Rob Patrick
+- [[http://www.straightouttacrouchend.blogspot.it/2016/03/old-queer-cinema.html][Old Queer Cinema]] by Caspar Salmon
+- [[http://moviemorlocks.com/2016/01/14/15-favorite-films-of-2015/][15 favorite films of 2015]] by Kimberly Lindbergs
+- [[http://cityonfire.com/return-to-a-better-tomorrow-1994-review/][Return to a Better Tomorrow]] via City On Fire
+
+# mmd.png http://filmsinwords.files.wordpress.com/2016/03/mmd.png
