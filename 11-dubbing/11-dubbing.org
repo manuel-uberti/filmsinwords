@@ -7,7 +7,7 @@
 #+DESCRIPTION:
 #+TITLE: On dubbing
 
-#+CAPTION: Mountains May Depart (Jia Zhangke, CH)
+#+CAPTION: Mountains May Depart (Jia Zhangke, CN)
 #+ATTR_HTML: :alt Mountains May Depart image :title Mountains May Depart :align center
 [[file:mmd.png]]
 
@@ -18,27 +18,27 @@ Italian dubbing.
 
 It took my better half and a great stretch of my mind to finally abandon myself
 to the beauty of the language the film actually uses. I was afraid to let my
-eyes distracted from the subtitles, because I was firmly convinced I would lose
+eyes be distracted by the subtitles, because I was firmly convinced I would lose
 some important details.
 
 Nonsense. Soon I discovered Italy misses so many films every year, and the only
-legal manner to watch them was buying DVDs from other countries. However, more
+legal manner to watch them is buying DVDs from other countries. However, more
 important than my struggle is the preciousness of other languages.
 
 Accents, dialects, entire cultural heritage enabled me to appreciate films and
-series on another level. Luckily enough, I missed /The Wire/ when it was
+series on another level. Luckily enough, I missed The Wire when it was
 distributed in Italy, so when I eventually watched it I could lose myself in the
-peculiar Baltimore English.
+peculiarities of Baltimore English.
 
 Dubbing transplants a film right into my country soil, reducing foreign
 languages and cultures to a surrogate performance. Why should Toshiro Mifune
-speak a perfect Italian? This is a basic question I will never forget myself for
+speak perfectly Italian? This is a basic question I will never forget myself for
 not asking before.
 
 Dubbing also impedes proper film criticism. It is hard to believe an Italian
 film critic who judges an actress or an actor performance without hearing her or
 his own true voice. There is a whole spectrum of emotions and signs that only
-the voice can convey, and the best actresses and actors works on and with their
+voice can convey, and the best actresses and actors work on and with their
 voices precisely to make their characters alive.
 
 The perfect example of this is Robin Williams. Despite the best efforts of [[https://it.wikipedia.org/wiki/Carlo_Valli][Carlo
