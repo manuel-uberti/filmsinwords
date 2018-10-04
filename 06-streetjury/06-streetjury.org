@@ -4,7 +4,7 @@
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: Festival Alto Vicentino, Jury
 #+TAGS:
-#+DESCRIPTION:
+b#+DESCRIPTION:
 #+TITLE: Street jury
 
 Before ending up in charge of [[http://www.festivalaltovicentino.it/][Festival Alto Vicentino]], I started off as a member
@@ -25,9 +25,9 @@ dismissed editing and cinematography. The jury assigned the respective prizes by
 means of elimination.
 
 2014 was the year that marked my first experience as festival director. Among
-the assignments, I had to look for eligible candidates for the new
-jury. Festival Alto Vicentino had been keeping the same head juror in the past
-years, and that was the first thing I wanted to change.
+the assignments, I had to look for eligible candidates for the new jury.
+Festival Alto Vicentino had been keeping the same head juror in the past years,
+and that was the first thing I wanted to change.
 
 I ended up with an almost totally renewed jury. This time I could not be there
 to see how the jury would have assigned the prizes. However, only 2 out of 6
