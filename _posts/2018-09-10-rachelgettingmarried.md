@@ -5,7 +5,7 @@ date:       2018-09-10
 categories: cinephilia
 ---
 
-A couple of days ago, I had the blu-ray of /Rachel Getting Married/ on while
+A couple of days ago, I had the blu-ray of *Rachel Getting Married* on while
 cooking dinner. It kept me company, and, even though I know it pretty well by
 now, it often took me away from the kitchen just to enjoy a particular sequence
 one more time. The next day, I went back to [Willow Maclay's
