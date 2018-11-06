@@ -21,9 +21,13 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://filmsinwords.github.com" # the base hostname & protocol for your
 # site, e.g. http://example.com
+
 show_excerpts: true
 excerpt_separator: <!--more-->
 
+disqus:
+  shortname: www-filmsinwords-eu
+  
 # Build settings
 markdown: kramdown
 theme: minima
