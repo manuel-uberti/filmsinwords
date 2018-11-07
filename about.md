@@ -11,4 +11,5 @@ cinephilia. I’ve always enjoyed writing, and writing about films in particular
 I tend to write about films I like instead of destroying the ones I don’t, but
 the occasional rant can sneak in. No promises.
 
-You can also find me on [Letterboxd](https://letterboxd.com/muberti/).
+You can subscribe to this blog via [RSS](https://www.filmsinwords.eu/feed.xml),
+and you can also find me on [Letterboxd](https://letterboxd.com/muberti/).
