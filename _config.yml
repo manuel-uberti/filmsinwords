@@ -27,7 +27,11 @@ excerpt_separator: <!--more-->
 
 disqus:
   shortname: www-filmsinwords-eu
-  
+
+# Pagination
+paginate: 5
+paginate_path: "/page-:num/"
+
 # Build settings
 markdown: kramdown
 theme: minima
