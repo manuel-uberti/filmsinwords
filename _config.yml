@@ -25,6 +25,8 @@ url: "https://filmsinwords.github.com" # the base hostname & protocol for your
 show_excerpts: true
 excerpt_separator: <!--more-->
 
+github_username: manuel-uberti
+rss: rss
 disqus:
   shortname: www-filmsinwords-eu
 
