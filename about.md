@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+# Me
+
 Hi, I’m Manuel!
 
 This blog is a place where I can collect all my thoughts on cinema and
@@ -13,3 +15,10 @@ the occasional rant can sneak in. No promises.
 
 You can subscribe to this blog via [RSS](https://www.filmsinwords.eu/feed.xml),
 and you can also find me on [Letterboxd](https://letterboxd.com/muberti/).
+
+# Website
+
+This website is powered by [Jekyll](https://jekyllrb.com/) and a slightly
+modified version of [Minima](https://github.com/jekyll/minima). The source code
+of the entire website is available on
+[GitHub](https://github.com/manuel-uberti/filmsinwords).
