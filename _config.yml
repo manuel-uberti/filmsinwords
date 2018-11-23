@@ -17,7 +17,7 @@ title: Films in Words
 author: Manuel Uberti
 email: manuel.uberti@inventati.org
 description: >- # this means to ignore newlines until "baseurl:"
-  A corner of the web where I can write about films and cinephilia.
+  A corner of the web about films and cinephilia.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://filmsinwords.github.com" # the base hostname & protocol for your
 # site, e.g. http://example.com
