@@ -6,11 +6,11 @@ permalink: /about/
 
 ## Me
 
-Hi, I’m Manuel! Thanks for stopping by!
+Hi, I’m Manuel! Thank you for stopping by!
 
 This blog is a place where I can collect all my thoughts on cinema and
 cinephilia. I’ve always enjoyed writing, and writing about films in particular.
-I tend to add comment on [Letterboxd](https://letterboxd.com/muberti/) for all
+I tend to add comments on [Letterboxd](https://letterboxd.com/muberti/) for all
 the films I watch, but this blog helps me elaborate on specific topics and
 opinions. It’s also a fun exercise for me, since I love writing in English but
 English is not my first language.
