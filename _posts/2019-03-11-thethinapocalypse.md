@@ -25,11 +25,10 @@ I discovered it, replaced Kubrick’s work in my heart.
 
 I don’t know now if my grandfather has ever watched Terrence Malick’s *The Thin
 Red Line*, but we would probably disagree about it too. Well, now anyway,
-because back when Malick’s came back occurred, I was still under the spell of
-*Saving Private Ryan*. Young and naive, I didn’t even notice *The Thin Red
-Line*, and when I approached it for the first time, *Saving Private Ryan* was
-already gone for good from my mind and Francis Ford Coppola’s Vietnam was my new
-religion.
+because when Malick’s came back occurred, I was still under the spell of *Saving
+Private Ryan*. Young and naive, I didn’t even notice *The Thin Red Line*, and
+when I approached it for the first time, *Saving Private Ryan* was already gone
+for good from my mind and Francis Ford Coppola’s Vietnam was my new religion.
 
 Predictably, *The Thin Red Line* didn’t click at all for me. I didn’t understand
 what Malick was trying to say about the war, nor the reason behind his method.
@@ -65,7 +64,7 @@ encountered before in the film criticism I regularly read.
 
 Seen through the lenses of othering, *Apocalypse Now* shows its cracks. The film
 focuses its and our eye on Captain Willard and his quest for Colonel Kurtz,
-therefore deliberately ignoring the essential bit in the conflict: the
+therefore deliberately ignoring the essential component of the conflict: the
 Vietnamese people. Relegated to mere background of the main events, they are
 always seen from the point of view of the US soldiers. Marginalized both
 physically and psychologically, they have no voice. We are left with how they
@@ -73,11 +72,11 @@ are perceived instead of how they really are. The inequalities are hidden away,
 and there is no question of identity because there is no identity to question.
 
 *The Thin Red Line* begins operating on almost the same level. The monologues
-reveals the inner fights of the soldiers, the voice-overs claim our attention
-on the words before the images. The long, intense battle sequence mainly
-concerns the US soldiers’ perspective. It’s not until the C-for-Charlie Company
-conquers the Japanese bunkers that we see the enemies faces and understand their
-sense of the events. This is where the film starts flipping the position of the
+reveal the inner fights of the soldiers, the voice-overs claim our attention on
+the words before the images. The long, intense battle sequence mainly concerns
+the US soldiers’ perspective. It’s not until the C-for-Charlie Company conquers
+the Japanese bunkers that we see the enemies faces and understand their sense of
+the events. This is where the film starts flipping the position of the
 spectator. From our privileged position as viewers, we see what’s on the other
 side of the battle. We see human beings as desperate as the C-for-Charlie
 Company members, torn down by fatigue and absolutely unable to cope with
@@ -88,7 +87,7 @@ The effect is somehow even more devastating due to Malick’s choice of renderi
 these sorrowful moments in complete silence. Aside from the ever-present music,
 the carefully chosen sounds, and the bits of voice-over punctuating the scenes,
 we are left with our own devices in front of a horror that is universal, and not
-confined in the mind of a single character. We are shown an attachment to life
+confined to the mind of a single character. We are shown an attachment to life
 and a belief in a greater hope that few other war films grant to the enemy.
 Gratuitous acts of violence then become not a display of power, but the only way
 to erase the guilt and the wounds. Even the teeth taken as souvenirs from the
@@ -99,7 +98,7 @@ the memory.
 complex than this, and cannot be easily reduced to a statement for othering.
 However, by exploring the effects of the war on everyone involved, Malick annuls
 the egocentric view of the heroes and puts forth the inhumanity in all its
-compelling nightmare.
+compelling nightmares.
 
 <hr>
 
