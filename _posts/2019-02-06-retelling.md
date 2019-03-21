@@ -42,7 +42,7 @@ montage, with juxtapositions of music, boxing training, and episodes of the
 champion’s life, Mann avoids the *“once upon a time…”* cliché, contextualises
 his character, and then jumps straight into Ali’s turning point: the glorious
 fight with Sonny Liston. The fact that the film opens without a single word from
-Ali, a man as powerful with his voice and words as his was with his fists, feels
+Ali, a man as powerful with his voice and words as he was with his fists, feels
 like Mann immediately stating his position against the biopic genre.
 
 But there is more on this beginning. Of all the books on Muhammad Ali, Michael
