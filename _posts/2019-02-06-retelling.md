@@ -38,7 +38,7 @@ their view, they add little to nothing to the formulaic one-man show. It’s a
 pattern so obvious it has been mocked many times (e.g., *Walk Hard*).
 
 *Ali* defies this schema right from the start. In ten minutes of brilliant
-montage, with juxtapositions of music, boxing training and episodes of the
+montage, with juxtapositions of music, boxing training, and episodes of the
 champion’s life, Mann avoids the *“once upon a time…”* cliché, contextualises
 his character, and then jumps straight into Ali’s turning point: the glorious
 fight with Sonny Liston. The fact that the film opens without a single word from
