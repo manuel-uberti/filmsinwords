@@ -45,18 +45,17 @@ fight with Sonny Liston. The fact that the film opens without a single word from
 Ali, a man as powerful with his voice and words as he was with his fists, feels
 like Mann immediately stating his position against the biopic genre.
 
-But there is more on this beginning. Of all the books on Muhammad Ali, Michael
-Mann singled out *Redemption Song: Muhammad Ali and the Spirit of the Sixties*
-by Mike Marqusee as the best in a [conversation with Bilge
+But there is more on this beginning. In a [conversation with Bilge
 Ebiri](https://www.youtube.com/watch?v=1QtAbxh7shw "An Evening With Michael
-Mann"). Not so surprisingly, the book begins with the same Clay-Liston fight
-*Ali* does. I don’t think this is a geeky touch. On the contrary, I feel like
-Mann connected on more than one level with Marqusee’s pages, and decided to
-portray a complex figure without losing sight of the significance of the events
-that surrounded it. And that is why *Ali* deals with only ten years of Muhammand
-Ali’s life. With the cultural and historical era at the centre of the picture,
-we have a deeper sense of the nature of Muhammad Ali’s choices in the most
-important timespan of his life.
+Mann"), Michael Mann singled out *Redemption Song: Muhammad Ali and the Spirit
+of the Sixties* by Mike Marqusee as the best book on Ali. Not so surprisingly,
+the book begins with the same Clay-Liston fight *Ali* does. I don’t think this
+is a geeky touch. On the contrary, I feel like Mann connected on more than one
+level with Marqusee’s pages, and decided to portray a complex figure without
+losing sight of the significance of the events that surrounded it. And that is
+why *Ali* deals with only ten years of Muhammand Ali’s life. With the cultural
+and historical era at the centre of the picture, we have a deeper sense of the
+nature of Muhammad Ali’s choices in the most important timespan of his life.
 
 Mann never steps back from the possibilities in front of him. The afro-camera,
 as it is ironically referred to in the *Making Of*, is as simple as it is
