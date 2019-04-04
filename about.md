@@ -19,8 +19,8 @@ You can subscribe to this blog via [RSS](https://www.filmsinwords.eu/feed.xml),
 if you wish to receive updates.
 
 Also, if you are interested in computer programming, I have [another
-blog](https://manuel-uberti.github.io/) for the more technical-driven side of my
-life.
+blog](https://manuel-uberti.github.io/) for the more technology-driven side of
+my life.
 
 ## Website
 
