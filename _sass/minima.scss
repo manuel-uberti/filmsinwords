@@ -1,44 +1,35 @@
 @charset "utf-8";
 
 @font-face {
-  font-family: 'Quicksand';
-  font-style: normal;
-  font-weight: 300;
-  src: local('Quicksand Light'), local('Quicksand-Light'),
-       url('/fonts/quicksand-v9-latin-300.woff2') format('woff2'),
-       url('/fonts/quicksand-v9-latin-300.woff') format('woff');
-}
-
-@font-face {
-  font-family: 'Quicksand';
+  font-family: 'Playfair Display';
   font-style: normal;
   font-weight: 400;
-  src: local('Quicksand Regular'), local('Quicksand-Regular'),
-       url('/fonts/quicksand-v9-latin-regular.woff2') format('woff2'),
-       url('/fonts/quicksand-v9-latin-regular.woff') format('woff');
+  src: local('Playfair Display'), local('Playfair-Display'),
+       url('/fonts/playfair-display-v14-latin-regular.woff2') format('woff2'),
+       url('/fonts/playfair-display-v14-latin-regular.woff') format('woff');
 }
 
 @font-face {
-  font-family: 'Quicksand';
-  font-style: normal;
-  font-weight: 500;
-  src: local('Quicksand Medium'), local('Quicksand-Medium'),
-       url('/fonts/quicksand-v9-latin-500.woff2') format('woff2')
-       url('/fonts/quicksand-v9-latin-500.woff') format('woff');
+  font-family: 'Playfair Display';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Playfair Display'), local('Playfair-Display'),
+       url('/fonts/playfair-display-v14-latin-italic.woff2') format('woff2')
+       url('/fonts/playfair-display-v14-latin-italic.woff') format('woff');
 }
 
 @font-face {
-  font-family: 'Quicksand';
+  font-family: 'Playfair Display';
   font-style: normal;
   font-weight: 700;
-  src: local('Quicksand Bold'), local('Quicksand-Bold'),
-       url('/fonts/quicksand-v9-latin-700.woff2') format('woff2'),
-       url('/fonts/quicksand-v9-latin-700.woff') format('woff');
+  src: local('Playfair Display'), local('Playfair-Display'),
+       url('/fonts/playfair-display-v14-latin-700.woff2') format('woff2'),
+       url('/fonts/playfair-display-v14-latin-700.woff') format('woff');
 }
 
 // Define defaults for each variable.
 
-$base-font-family: Quicksand !default;
+$base-font-family: Playfair Display !default;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
