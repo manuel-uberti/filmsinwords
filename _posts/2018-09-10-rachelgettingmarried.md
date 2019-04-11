@@ -48,7 +48,7 @@ if we are rushing in with no desire of missing anything, while perfectly at ease
 with the fact that we will surely lose something on our way.
 
 Demme holds us closer to the lives on the screen like he has never done before.
-Here conversations, confessions and reactions are not displayed in terms of an
+Here conversations, confessions, and reactions are not displayed in terms of an
 actress seemingly talking to us. They literally happen around us, just a turn of
 the head away. And there is always something going on at the periphery of our
 eyes and ears in *Rachel Getting Married*. Everywhere in the Buchman’s house
@@ -67,9 +67,9 @@ keeping everybody together. Including us.
 
 Like in any other Jonathan Demme’s film, music is itself a character in the
 story. Various cultures meet in a clash of races and genders, culminating in a
-showcase of music and dance that encompasses different styles. This is not a
-tentative approach at portraying folklore and heritage with a humanist touch,
-since there is a documentarian side of Demme that deals with it.
+showcase of music and dance that encompasses different styles. Nevertheless,
+this is not a tentative approach at portraying folklore and heritage with a
+humanist touch, since there is a documentarian side of Demme that deals with it.
 
 In *Rachel Getting Married* he lets the musicians speak for themselves, leaving
 them in front of the camera apparently in full control of their playing. Their
@@ -83,4 +83,3 @@ for them.
 I like to imagine him with a camera still following the lives of the people he
 cares about, with music always in the air and that contagious smile of his.
 Somewhere, somehow, he is telling a story I wish I could see.
-
