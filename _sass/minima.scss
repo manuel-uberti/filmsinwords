@@ -1,25 +1,25 @@
 @charset "utf-8";
 
 @font-face {
-  font-family: 'Libre Baskerville';
+  font-family: 'Nunito';
   src: url('../fonts/nunito-sans-v4-latin-regular.woff2') format('woff');
 }
 
 @font-face {
-  font-family: 'Libre Baskerville';
+  font-family: 'Nunito';
   src: url('../fonts/nunito-sans-v4-latin-italic.woff2') format('woff');
   font-style: italic;
 }
 
 @font-face {
-  font-family: 'Libre Baskerville';
+  font-family: 'Nunito';
   src: url('../fonts/nunito-sans-v4-latin-700.woff2') format('woff');
   font-weight: 700;
 }
 
 // Define defaults for each variable.
 
-$base-font-family: 'Libre Baskerville', serif !default;
+$base-font-family: 'Nunito', serif !default;
 $base-font-size:   18px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
