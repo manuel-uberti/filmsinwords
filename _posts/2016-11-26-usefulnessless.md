@@ -34,7 +34,7 @@ The vital importance of Edward Snowden’s actions should never be underestimat
 nonetheless Laura Poitras’s outstanding *Citizenfour* is out there for everyone
 to watch and learn from. Edward Snowden himself is streaming talks and
 interviews from Russia regularly and looks alive and well on Twitter. Following
-the consequences of its disclosures is just a click away. This easily rules out
+the consequences of his disclosures is just a click away. This easily rules out
 my first thought: Stone is not aiming to spread the message, unless he thinks
 awfully low of his viewers.
 
