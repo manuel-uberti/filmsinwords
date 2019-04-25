@@ -7,9 +7,10 @@ categories: cinephilia
 
 A work of art reveals an artist ego just as much as it uncovers her persona.
 Since *4* in 2011, there is more of Beyoncé’s ego and persona in every song she
-creates. Free from the ties with the father-manager Mathew Knowles, she looked
-inward for intimacy and outward for influences. She found a mature voice, but
-she also brought out traits of her identity that stardom can easily garble.
+creates. Free from the ties with the father-manager Mathew Knowles, she has
+looked inward for intimacy and outward for influences. She has found a mature
+voice, but she has also brought out traits of her identity that stardom can
+easily garble.
 
 <!--more-->
 
