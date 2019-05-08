@@ -13,12 +13,12 @@ do it!”.
 <!--more-->
 
 <p align="center">
-    <img src="/media/2015-10-06-the_new_cinephilia.png">    
+    <img src="/media/2015-10-06-the_new_cinephilia.png">
 </p>
 
 I have been following Girish’s [blog](http://girishshambu.blogspot.it/) for so
-many years. I always liked the wide range of his reflections. He expands on his
-thoughts with links to further readings, therefore each of his posts often
+many years. I’ve always liked the wide range of his reflections. He expands on
+his thoughts with links to further readings, therefore each of his posts often
 brings me out in the wild web to read new pieces of criticism.
 
 *The New Cinephilia* reads exactly as one of his blog posts. It reaches out for
