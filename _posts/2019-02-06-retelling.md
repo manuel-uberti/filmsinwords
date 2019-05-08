@@ -15,7 +15,7 @@ is more to Queen than a greatest hits collection.
 
 <!--more-->
 
-Nonetheless, biopics has always fascinated me, especially since I am an avid
+Nonetheless, biopics have always fascinated me, especially since I am an avid
 reader of biographies and autobiographies. I enjoyed *Control* and *Love &
 Mercy*, and I loved *Bird* and *I’m Not There*. None of these has had the
 overwhelming power of *Ivan the Terrible* on me, but that’s because Sergei
