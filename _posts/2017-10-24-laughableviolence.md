@@ -22,7 +22,7 @@ previous, now dead version of this blog, I wrote about the link between real
 violence and money-bait one. I argued about violence as a spectacle in *Spectre*
 and as a menacing device in *Universal Soldier: Day of Reckoning*. Violence has
 become a *de facto* in most blockbusters, and the boundaries within which it is
-depicted keeps getting stretched back and forth.
+depicted keep getting stretched back and forth.
 
 *The Babysitter* and *Better Watch Out* stand as different takes on the home
 invasion horror. They try to defy genre conventions while simultaneously nodding
