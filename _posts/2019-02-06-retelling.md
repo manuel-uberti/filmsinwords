@@ -27,7 +27,7 @@ Michael Mann’s *Ali*. What takes *Ali* closer to *Ivan the Terrible* than to 
 other above-mentioned films is where the focus is.
 
 <p align="center">
-    <img src="/media/2019-02-05-ali.jpg">
+    <img src="/assets/images/2019-02-05-ali.jpg">
     <br>
     <em>Ali (Michael Mann, 2001)</em>
 </p>

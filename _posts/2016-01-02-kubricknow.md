@@ -13,7 +13,7 @@ trying to figure out what the great director means today.
 <!--more-->
 
 <p align="center">
-    <img src="/media/2016-01-02-eyes_wide_shut.jpg">
+    <img src="/assets/images/2016-01-02-eyes_wide_shut.jpg">
     <br>
     <em>Eyes Wide Shut (Stanley Kubrick, 1999)</em>
 </p>

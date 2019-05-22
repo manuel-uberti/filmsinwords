@@ -13,7 +13,7 @@ Italian dubbing.
 <!--more-->
 
 <p align="center">
-    <img src="/media/2016-03-17-mountains_may_depart.png">
+    <img src="/assets/images/2016-03-17-mountains_may_depart.png">
     <br>
     <em>Mountains May Depart (Jia Zhangke, 2015)</em>
 </p>

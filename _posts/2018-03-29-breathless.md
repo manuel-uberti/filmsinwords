@@ -12,7 +12,7 @@ that Quentin Tarantino blessed this film in the pantheon of cult cinema.
 <!--more-->
 
 <p align="center">
-    <img src="/media/2018-03-29-breathless.png">
+    <img src="/assets/images/2018-03-29-breathless.png">
     <br>
     <em>Breathless (Jim McBride, 1983)</em>
 </p>

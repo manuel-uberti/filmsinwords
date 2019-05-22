@@ -12,7 +12,7 @@ with to think about.
 <!--more-->
 
 <p align="center">
-    <img src="/media/2017-10-24-better_watch_out.jpg">
+    <img src="/assets/images/2017-10-24-better_watch_out.jpg">
     <br>
     <em>Better Watch Out (Chris Peckover, 2016)</em>
 </p>

@@ -18,7 +18,7 @@ and he never did come to appreciate *Apocalypse Now* which, as soon as
 I discovered it, replaced Kubrick’s work in my heart.
 
 <p align="center">
-    <img src="/media/2019-03-09-the_thin_red_line.png">
+    <img src="/assets/images/2019-03-09-the_thin_red_line.png">
     <br>
     <em>The Thin Red Line (Terrence Malick, 1998)</em>
 </p>

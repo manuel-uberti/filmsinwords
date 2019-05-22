@@ -25,7 +25,7 @@ of her music by way of visuals. As compelling as they were, they still feel like
 try-outs compared to 2016’s *Lemonade*.
 
 <p align="center">
-    <img src="/media/2019-04-25-homecoming.png">
+    <img src="/assets/images/2019-04-25-homecoming.png">
 </p>
 
 Musically, *Lemonade* is Beyoncé at her most eclectic to date. The span of

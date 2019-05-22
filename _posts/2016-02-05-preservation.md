@@ -18,7 +18,7 @@ Chi-Sum’s *All’s Well, Ends Well*.
 <!--more-->
 
 <p align="center">
-    <img src="/media/2016-02-05-bullets_over_summer.jpg">
+    <img src="/assets/images/2016-02-05-bullets_over_summer.jpg">
     <br>
     <em>Bullets Over Summer (Wilson Yip, 1999)</em>
 </p>

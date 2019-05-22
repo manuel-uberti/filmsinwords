@@ -13,7 +13,7 @@ passion.
 <!--more-->
 
 <p align="center">
-    <img src="/media/2018-08-20-time_and_hat.png">
+    <img src="/assets/images/2018-08-20-time_and_hat.png">
 </p>
 
 As it often happens in film criticism, critics draw comparison with other works

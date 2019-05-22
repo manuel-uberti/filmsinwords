@@ -15,7 +15,7 @@ years felt like discovering a different man.
 <!--more-->
 
 <p align="center">
-    <img src="/media/2018-10-21-ferrarastraubs.png">
+    <img src="/assets/images/2018-10-21-ferrarastraubs.png">
 </p>
 
 I entered Ferrara’s world via *New Rose Hotel* and *The Blackout* almost twenty

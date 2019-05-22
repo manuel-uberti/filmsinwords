@@ -17,7 +17,7 @@ to revisit the thoughts of my favourite film critics on my favourite Demme’s.
 <!--more-->
 
 <p align="center">
-    <img src="/media/2018-09-10-rachel_getting_married.jpg">
+    <img src="/assets/images/2018-09-10-rachel_getting_married.jpg">
     <br>
     <em>Rachel Getting Married (Jonathan Demme, 2008)</em>
 </p>

@@ -13,7 +13,7 @@ the viewing.
 <!--more-->
 
 <p align="center">
-    <img src="/media/2016-11-26-usefulnessless.jpeg">
+    <img src="/assets/images/2016-11-26-usefulnessless.jpeg">
     <br>
     <em>Snowden (Oliver Stone, 2016)</em>
 </p>

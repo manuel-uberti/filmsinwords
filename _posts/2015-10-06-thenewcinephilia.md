@@ -13,7 +13,7 @@ do it!”.
 <!--more-->
 
 <p align="center">
-    <img src="/media/2015-10-06-the_new_cinephilia.png">
+    <img src="/assets/images/2015-10-06-the_new_cinephilia.png">
 </p>
 
 I have been following Girish’s [blog](http://girishshambu.blogspot.it/) for so

@@ -15,7 +15,7 @@ enjoy the latest hyped TV series.
 <!--more-->
 
 <p align="center">
-    <img src="/media/2018-09-20-rollerland.png">
+    <img src="/assets/images/2018-09-20-rollerland.png">
 </p>
 
 A similar bias has kept me away from Drew Barrymore’s *Whip It* for a long time.

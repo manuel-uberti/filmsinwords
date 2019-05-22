@@ -14,7 +14,7 @@ curriculum has left me with when I approach cinema and film criticism.
 <!--more-->
 
 <p align="center">
-    <img src="/media/2016-03-28-better_living.png">
+    <img src="/assets/images/2016-03-28-better_living.png">
 </p>
 
 This is quite obvious from the very first pages. Scott opens quoting the same

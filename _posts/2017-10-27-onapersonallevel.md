@@ -13,7 +13,7 @@ an attempt at sorting out feelings too confused.
 <!--more-->
 
 <p align="center">
-    <img src="/media/2017-10-27-mommy.jpg">
+    <img src="/assets/images/2017-10-27-mommy.jpg">
     <br>
     <em>Mommy (Xavier Dolan, 2014)</em>
 </p>

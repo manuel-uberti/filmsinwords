@@ -12,7 +12,7 @@ commentators, but mainly because I felt in no position at all.
 <!--more-->
 
 <p align="center">
-    <img src="/media/2016-04-24-graffiti_bridge.jpg">
+    <img src="/assets/images/2016-04-24-graffiti_bridge.jpg">
     <br>
     <em>Graffiti Bridge (Prince, 1990)</em>
 </p>
