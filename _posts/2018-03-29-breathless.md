@@ -28,14 +28,14 @@ That book led me to *Breathless*, which in turn made me reconsider Richard Gere
 and gain a better understanding of *American Gigolo*. And I still believe
 Richard Gere has never been *this* good in his entire career.
 
-The only blu-ray available before [Second Sight
+The only Blu-ray available before [Second Sight
 Films](http://www.secondsightfilms.co.uk/) came into play was the region A one
 from Shout! Factory, so I was in dire need of a proper European release.
 *Breathless* is full of vivid and powerful colours, and it pumps images as
 energetic as the marvellous soundtrack. It practically begs for high-resolution
 and deafening loudness.
 
-Second Sight Films revamped the blu-ray artwork with a cover that gets
+Second Sight Films revamped the Blu-ray artwork with a cover that gets
 *Breathless* essence more than any words I could use. It puts Jesse at the
 centre, because he *is* the film: narcissistic, cocky, naive, *loco*. The colour
 palette is also a perfect choice, since it naturally conveys the *hotness* of

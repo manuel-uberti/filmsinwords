@@ -5,7 +5,7 @@ date:       2018-09-10
 categories: cinephilia
 ---
 
-A couple of days ago, I had the blu-ray of *Rachel Getting Married* on while
+A couple of days ago, I had the Blu-ray of *Rachel Getting Married* on while
 cooking dinner. It kept me company, and, even though I know it pretty well by
 now, it often took me away from the kitchen just to enjoy a particular sequence
 one more time. The next day, I went back to [Willow Maclay's
@@ -53,7 +53,7 @@ actress seemingly talking to us. They literally happen around us, just a turn of
 the head away. And there is always something going on at the periphery of our
 eyes and ears in *Rachel Getting Married*. Everywhere in the Buchman’s house
 people are getting ready for the wedding and playing music, talking and
-laughing. According to the Q&A in the blu-ray, sometimes they don’t even know
+laughing. According to the Q&A in the Blu-ray, sometimes they don’t even know
 the camera is there. This adds a level of uncompromising truth to the general
 video-diary vibe that makes it possibly more personal and familiar than it
 already feels.
