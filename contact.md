@@ -4,8 +4,8 @@ title: Contact
 permalink: /contact/
 ---
 
-If you have any questions about my writings or me just drop me an email at
-[manuel.uberti@inventati.org](mailto:manuel.uberti@inventati.org).
+If you have any questions or just want to talk about cinema just drop me an
+email at [manuel.uberti@inventati.org](mailto:manuel.uberti@inventati.org).
 
 I prefer encrypted emails, so you can use my [GPG
 key](https://github.com/manuel-uberti/filmsinwords/blob/master/pubkey.txt)
