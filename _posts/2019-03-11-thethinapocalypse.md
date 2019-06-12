@@ -100,6 +100,6 @@ However, by exploring the effects of the war on everyone involved, Malick annuls
 the egocentric view of the heroes and puts forth the inhumanity in all its
 compelling nightmares.
 
-<hr>
+#### Notes ####
 
 [^1]: See [The Problem of Othering: Towards Inclusiveness and Belonging](http://www.otheringandbelonging.org/the-problem-of-othering/)
