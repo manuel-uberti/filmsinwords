@@ -62,10 +62,10 @@ what is happening around us nowadays.
 Astra Taylor quotes Gramsci’s famous words on optimism and pessimism[^4] in her
 book, and the film feels much like an exploration of pessimism and optimism. We
 have every reason to be pessimists, because unless we are purposely blind we
-cannot negate the discrepancies among states and peoples. And yet we can and
-should be optimists as well, because something can be done and we have the means
-to right the wrongs. Taylor’s images and words place a mirror in front of our
-conscience. What we see is what we get.
+cannot negate the inequalities within states and among peoples. And yet we can
+and should be optimists as well, because something can be done and we have the
+means to right the wrongs. Taylor’s images and words place a mirror in front of
+our conscience. What we see is what we get.
 
 #### Notes ####
 
