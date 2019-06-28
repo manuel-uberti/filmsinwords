@@ -48,12 +48,12 @@ state of the world we live in. Obviously they are a few among many, but Taylor
 is singling out the prison system and immigration, rightly pointing her finger
 to some of the most complex and misunderstood aberrations of recent history.
 
-Quotes from Plato’s *Republic* introduce the investigations as much as question
-them, and as Taylor guides us through the origins of democracy in ancient
-Greece, we are left marvelling at the vision that the Greeks carved out of their
-imaginations. The director seems to offer a probably obvious, but ever so
-relevant, answer to the crisis of democracy: we need to rediscover what was done
-in the past to grasp the present and work for a better future. The various
+Quotes from Plato’s *Republic* introduce the investigations as much as
+questioning them, and as Taylor guides us through the origins of democracy in
+ancient Greece, we are left marvelling at the vision that the Greeks carved out
+of their imaginations. The director seems to offer a probably obvious, but ever
+so relevant, answer to the crisis of democracy: we need to rediscover what was
+done in the past to grasp the present and work for a better future. The various
 inquiries of *What Is Democracy?* are also interspersed by discussions[^3]
 between the director and scholar Silvia Federici on the frescoes *The Allegory
 of Good and Bad Government*, which makes for an impressive parallel with much of
