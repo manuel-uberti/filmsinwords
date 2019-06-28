@@ -56,7 +56,7 @@ relevant, answer to the crisis of democracy: we need to rediscover what was done
 in the past to grasp the present and work for a better future. The various
 inquiries of *What Is Democracy?* are also interspersed by discussions[^3]
 between the director and scholar Silvia Federici on the frescoes *The Allegory
-of Good and Bad Government*, which make for an impressive parallel with much of
+of Good and Bad Government*, which makes for an impressive parallel with much of
 what is happening around us nowadays.
 
 Astra Taylor quotes Gramsci’s famous words on optimism and pessimism[^4] in her
