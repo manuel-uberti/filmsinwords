@@ -25,7 +25,7 @@ I discovered it, replaced Kubrick’s work in my heart.
 
 I don’t know now if my grandfather has ever watched Terrence Malick’s *The Thin
 Red Line*, but we would probably disagree about it too. Well, now anyway,
-because when Malick’s came back occurred, I was still under the spell of *Saving
+because when Malick’s come back occurred, I was still under the spell of *Saving
 Private Ryan*. Young and naive, I didn’t even notice *The Thin Red Line*, and
 when I approached it for the first time, *Saving Private Ryan* was already gone
 for good from my mind and Francis Ford Coppola’s Vietnam was my new religion.
@@ -55,7 +55,7 @@ As pointed out in a [beautiful
 discussion](https://www.letterboxd.com/post1000tension/film/the-thin-red-line)
 on *The Thin Red Line*, there is an issue of “othering” which is rarely taken
 into account when works of art are discussed. That is to say, I’ve never
-encountered before in the film criticism I regularly read.
+encountered it before in the film criticism I regularly read.
 
 > “Othering” is a term that not only encompasses the many expressions of
 > prejudice on the basis of group identities, but we argue that it provides a
