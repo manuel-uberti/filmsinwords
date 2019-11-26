@@ -14,8 +14,8 @@ I tend to add comments on [Letterboxd](https://letterboxd.com/muberti/) for the
 films I watch, but this blog helps me elaborate on specific topics and opinions.
 It’s also a fun exercise because English is not my first language.
 
-You can subscribe to this blog via [RSS](https://www.filmsinwords.eu/feed.xml),
-if you wish to receive updates.
+If you wish to receive updates, you can subscribe to this blog via
+[RSS](https://www.filmsinwords.eu/feed.xml).
 
 Also, if you are interested in computer programming, I have [another
 blog](https://manuel-uberti.github.io/) for the more technology-driven side of
