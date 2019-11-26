@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Me
 
-Hi, I’m Manuel! Thank you for stopping by!
+Hi, I’m Manuel! Thank you for stopping by.
 
 This blog is a place where I can collect all my thoughts on cinema and
 cinephilia. I’ve always enjoyed writing and writing about films in particular.
@@ -17,9 +17,9 @@ It’s also a fun exercise because English is not my first language.
 If you wish to receive updates, you can subscribe to this blog via
 [RSS](https://www.filmsinwords.eu/feed.xml).
 
-Also, if you are interested in computer programming, I have [another
-blog](https://manuel-uberti.github.io/) for the more technology-driven side of
-my life.
+By the way, I have [another blog](https://manuel-uberti.github.io/) for the more
+technology-driven side of my life. Check it out if you love Emacs and functional
+programming.
 
 ## Website
 
