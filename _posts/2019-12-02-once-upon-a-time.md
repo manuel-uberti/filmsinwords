@@ -9,8 +9,8 @@ I remember the first time I saw *Pulp Fiction* quite well. I was a sixteen-ye
 old already settled on my path to becoming a proper nerd, which means I was your
 regular outsider in a valley of farmers and carpenters, far from any big city,
 and without a reliable internet connection. I relied on magazines to inform my
-cinephilia, and at that time some of them came with a VHS attached. That is how
-*Pulp Fiction* entered my life. 
+cinephilia, and at that time some of those came with a VHS attached. That is how
+*Pulp Fiction* entered my life.
 
 <!--more-->
 
