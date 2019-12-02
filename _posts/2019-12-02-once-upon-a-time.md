@@ -39,8 +39,8 @@ In *Once Upon a Time in Hollywood*, Tarantino has finally understood that geeky
 quotes, fan-service, and homages can live within a much broader context. Instead
 of amusing the audience and himself with pop references and obscure trivia, he
 uses nostalgia as a platform to deliver punches at a world that is actually not
-the dream one used to believe in. And so we have an ageing actor whose forced to
-accept subpar roles, merely a peon at the disposal of producers and directors
+the dream one used to believe in. And so we have an ageing actor who is forced
+to accept subpar roles, merely a peon at the disposal of producers and directors
 who just want to profit from his once glorious fame. Next to him a stuntman who,
 in spite of his easygoing attitude, has his future perilously attached to a
 movie star’s highs and lows. All faces of the other side of an industry that
