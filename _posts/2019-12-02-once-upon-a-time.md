@@ -20,31 +20,31 @@ cinephilia, and at that time some of those came with a VHS attached. That is how
     <em>Once Upon a Time in Hollywood (Quentin Tarantino, 2019)</em>
 </p>
 
-After *Inglourious Basterds* I lost interest in Quentin Tarantino. I didn’t
-particularly like *Django Unchained* and though I enjoyed *The Hateful Eight*,
-I’ve never come back to it. The only one of his works I was willing to revisit
-is *Death Proof*, because in there our love for images met, danced, and kissed
-amiably.
+Fast forward 15 years, and after *Inglourious Basterds* I lost interest in Quentin
+Tarantino. I didn’t particularly like *Django Unchained* and though I enjoyed
+*The Hateful Eight*, I’ve never gone back to it. The only one of his works I was
+willing to revisit is *Death Proof*, because in there our love for images met,
+danced, and kissed amiably.
 
 This could partly explain why *Once Upon a Time in Hollywood* hit me so hard.
 I simply wasn’t expecting a great film from Tarantino, and I certainly wasn’t
 expecting him to be able to tell me something new. I’ve always had the feeling
-he had little to say, albeit he had been saying it convincingly more often than
-not film after film. The themes, the references, the dialogues, the violence,
-the objectification of pop culture: his cinema has been a reiteration of his own
-obsessions over and over again. An enjoyable endeavour if you go along with it,
-a trite exercise when you don’t.
+he had little to say, albeit he had been saying it mostly convincingly, film
+after film. The themes, the references, the dialogues, the violence, the
+objectification of pop culture: his cinema has been a reiteration of his own
+obsessions. An enjoyable endeavour if you go along with it, a trite exercise
+when you don’t.
 
 In *Once Upon a Time in Hollywood*, Tarantino has finally understood that geeky
 quotes, fan-service, and homages can live within a much broader context. Instead
 of amusing the audience and himself with pop references and obscure trivia, he
 uses nostalgia as a platform to deliver punches at a world that is actually not
-the dream one used to believe in. And so we have an ageing actor who is forced
-to accept subpar roles, merely a peon at the disposal of producers and directors
+the dream we used to believe in. And so we have an ageing actor who is forced to
+accept subpar roles, merely a pawn at the disposal of producers and directors
 who just want to profit from his once glorious fame. Next to him a stuntman who,
-in spite of his easygoing attitude, has his future perilously attached to a
-movie star’s highs and lows. All faces of the other side of an industry that
-swallows you in as quickly as it can throw you out from the back.
+in spite of his easygoing attitude, sees his future perilously attached to a
+movie star’s highs and lows. All dark sides of an industry that swallows you in
+as quickly as it can throw you out from the back.
 
 However, Tarantino is too much in love with his idea of Hollywood to let go
 nostalgia once and for all. *Once Upon a Time in Hollywood* brims with the
