@@ -20,11 +20,11 @@ cinephilia, and at that time some of those came with a VHS attached. That is how
     <em>Once Upon a Time in Hollywood (Quentin Tarantino, 2019)</em>
 </p>
 
-Fast forward 15 years, and after *Inglourious Basterds* I lost interest in Quentin
-Tarantino. I didn’t particularly like *Django Unchained* and though I enjoyed
-*The Hateful Eight*, I’ve never gone back to it. The only one of his works I was
-willing to revisit is *Death Proof*, because in there our love for images met,
-danced, and kissed amiably.
+Fast forward fifteen years, and after *Inglourious Basterds* I lost interest in
+Quentin Tarantino. I didn’t particularly like *Django Unchained* and though
+I enjoyed *The Hateful Eight*, I’ve never gone back to it. The only one of his
+works I was willing to revisit is *Death Proof*, because in there our love for
+images met, danced, and kissed amiably.
 
 This could partly explain why *Once Upon a Time in Hollywood* hit me so hard.
 I simply wasn’t expecting a great film from Tarantino, and I certainly wasn’t
