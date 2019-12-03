@@ -81,7 +81,7 @@ the peak of his popularity, he ended up on the covers of DVDs recommending the
 latest Asian film director he put his eyes on. His words become religion among
 film viewers, and I too started digging through B-movies shelves to discover the
 hidden gem he had just mentioned in another interview. In *Once Upon a Time in
-Hollywood* Taratino has eventually come to terms with this, lightly mocking the
+Hollywood* Tarantino has eventually come to terms with this, lightly mocking the
 pretentiousness of all but forgettable productions. He invests so much time in
 making the less than memorable stints of Rick Dalton look real that one begin to
 believe he actually thinks they are great stuff. Thanks to DiCaprio’s hilarious
