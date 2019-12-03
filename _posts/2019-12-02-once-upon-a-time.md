@@ -83,8 +83,8 @@ film viewers, and I too started digging through B-movies shelves to discover th
 hidden gem he had just mentioned in another interview. In *Once Upon a Time in
 Hollywood* Tarantino has eventually come to terms with this, lightly mocking the
 pretentiousness of all but forgettable productions. He invests so much time in
-making the less than memorable stints of Rick Dalton look real that one begin to
-believe he actually thinks they are great stuff. Thanks to DiCaprio’s hilarious
+making the less than memorable stints of Rick Dalton look real that one may
+believe he really thinks they are great stuff. Thanks to DiCaprio’s hilarious
 overacting, though, the mimicry is exposed as brilliantly as it is achieved.
 
 *Once Upon a Time in Hollywood* could very well be the surprise of the year for
