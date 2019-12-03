@@ -66,7 +66,7 @@ individuals, men and women who more or less coincidentally cross paths which
 usually end in violent confrontations. Here we have long stretches where nothing
 relevant seems to happen. Just when one is about to ask whether there is a point
 or not, one realizes the isolation the characters live in and how much of
-everyone’s distinct isolations Tarantino intersect at precise points of the
+everyone’s distinct isolations Tarantino intersects at precise points of the
 story. The pleasure Sharon Tate finds in the people appreciating her performance
 on the screen of a movie theatre is the pleasure Rick Dalton discovers in being
 able to act greatly in a hackneyed western. The nonsensical world Cliff Booth
