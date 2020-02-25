@@ -64,7 +64,7 @@ battles to accept it, because the conventions of imposed masculinity are always
 in her way. Carol and Therese want, but they cannot. They only can if they
 abandon everything and live among themselves.
 
-*Carols* explores the discovery of love and the progress of the relationship
+*Carol* explores the discovery of love and the progress of the relationship
 through senses. The viewer feels the surfaces as if touching them, not because
 the sound design is great, which it is by the way, but because the grace of the
 characters’ movements is matched by the delicacy of the camera capturing them.
