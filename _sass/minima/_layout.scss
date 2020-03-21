@@ -17,6 +17,7 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
+  text-decoration: none !important;
 
   @include media-query($on-palm) {
     padding-right: 45px;
@@ -38,7 +39,7 @@
   text-align: right;
 
   .nav-trigger {
-      display: none;
+    display: none;
   }
 
   .menu-icon {
@@ -107,6 +108,7 @@
     .page-link {
       display: inline;
       padding: 0;
+      text-decoration: none !important;
 
       &:not(:last-child) {
         margin-right: 20px;
@@ -144,7 +146,7 @@
 
 .footer-col {
   width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-  width:         calc(100% - (#{$spacing-unit} / 2));
+  width: calc(100% - (#{$spacing-unit} / 2));
   margin-bottom: $spacing-unit / 2;
   padding-left: $spacing-unit / 2;
 }
@@ -152,28 +154,28 @@
 .footer-col-1,
 .footer-col-2 {
   width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-  width:         calc(50% - (#{$spacing-unit} / 2));
+  width: calc(50% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-3 {
   width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-  width:         calc(100% - (#{$spacing-unit} / 2));
+  width: calc(100% - (#{$spacing-unit} / 2));
 }
 
 @media screen and (min-width: $on-large) {
   .footer-col-1 {
     width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-    width:         calc(35% - (#{$spacing-unit} / 2));
+    width: calc(35% - (#{$spacing-unit} / 2));
   }
 
   .footer-col-2 {
     width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-    width:         calc(20% - (#{$spacing-unit} / 2));
+    width: calc(20% - (#{$spacing-unit} / 2));
   }
 
   .footer-col-3 {
     width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-    width:         calc(45% - (#{$spacing-unit} / 2));
+    width: calc(45% - (#{$spacing-unit} / 2));
   }
 }
 
@@ -264,21 +266,26 @@
   }
 }
 
-
 .social-media-list {
   display: table;
   margin: 0 auto;
   li {
     float: left;
     margin: 0 5px;
-    &:first-of-type { margin-left: 0 }
-    &:last-of-type { margin-right: 0 }
+    &:first-of-type {
+      margin-left: 0;
+    }
+    &:last-of-type {
+      margin-right: 0;
+    }
     a {
       display: block;
       padding: $spacing-unit / 4;
-      border: 1px solid $grey-color-light
+      border: 1px solid $grey-color-light;
     }
-    &:hover .svg-icon { fill: currentColor; }
+    &:hover .svg-icon {
+      fill: currentColor;
+    }
   }
 }
 
@@ -287,5 +294,5 @@
  */
 .one-half {
   width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-  width:         calc(50% - (#{$spacing-unit} / 2));
+  width: calc(50% - (#{$spacing-unit} / 2));
 }
