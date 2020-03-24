@@ -16,8 +16,8 @@ English is not my first language.
 
 If you wish to receive updates, you can subscribe to this blog via [RSS](https://www.filmsinwords.eu/feed.xml).
 
-By the way, I have [another blog](https://manuel-uberti.github.io/) for the more technology-driven side of my life.
-Check it out if you love Emacs and functional programming.
+By the way, I have [a personal website](https://www.manueluberti.eu/) for the more technology-driven side of my
+life. Check it out if you love Emacs and functional programming.
 
 ## Website
 
