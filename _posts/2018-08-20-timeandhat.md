@@ -38,9 +38,9 @@ Mann seems to explore with his style.
 
 Both films abstract the narrative away, using it only to provide a model upon
 which building a complex interplay of camera movements, editing and sounds.
-Characters have little to no background, dropped in occasionally for
-context’s sake. Relationships are a thin layer, and romance though a driving
-force is instrumental to the courses of action and not the ultimate ending.
+Characters have little to no background, dropped in occasionally for context
+sake. Relationships are a thin layer, and romance though a driving force is
+instrumental to the courses of action and not the ultimate ending.
 
 Mann and Tsui use the camera to deconstruct the action instead of creating it.
 Our eyes are placed under the keys of a keyboard in *Blackhat* and inside a
