@@ -69,7 +69,7 @@ all.
 one just for itself. Unnerving and terribly sad, Anderson’s work reasons about
 trauma and the subsequent sorrow without looking for possible explanations.
 Eventually, everybody is alone in their intimacy, and in that precious place
-they rely only to themselves. A place so safe that even the smartest technology
+they rely only on themselves. A place so safe that even the smartest technology
 hasn’t been able to reach. Yet.
 
 #### Notes
