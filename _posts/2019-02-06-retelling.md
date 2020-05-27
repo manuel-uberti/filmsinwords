@@ -85,7 +85,7 @@ his religious belief, his humour and his charm, his adultery. By the tonal
 shifts in the voice and the studied movements (the walk, the eyes), all the
 controversial traits of Ali emerge without compromising the nature of the film.
 At his best, Malek mimics Mercury’s flamboyant stage presence and mercurial
-temperament, but it stops there. There is one idea of Freddie Mercury in
+temperament, but he stops there. There is one idea of Freddie Mercury in
 *Bohemian Rhapsody*, and that’s all we get.
 
 While *Bohemian Rhapsody* adds nothing to a trite custom, *Ali* redefines the
