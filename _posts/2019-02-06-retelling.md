@@ -6,7 +6,7 @@ categories: cinephilia
 ---
 
 *Bohemian Rhapsody* reminded me of how difficult it is to tell a story more or
-less well-known. Questions of accuracy, respect and fan-service are inevitable,
+less well-known. Questions of accuracy, respect, and fan-service are inevitable,
 as inevitable is the pressure behind a work that must deal with a popular
 figure. *Bohemian Rhapsody* follows the conventional biopic path, unfolding
 mechanically like a Wikipedia entry. It limits itself to bits and pieces of a
