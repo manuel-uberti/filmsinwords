@@ -58,7 +58,7 @@ attracted to the rules of the documentary, but it bends them to reduce the
 distance between the viewer and the *facts*. Instead of unmasking the fake truth,
 it covers the real lie until the very end, while at the same time acknowledging
 the charms of fiction and how it can influence our thoughts. *Lake Mungo* knows
-it’s telling a story, and yet it takes no obtuse pride in this knowledge,
+that it is telling a story, and yet it takes no obtuse pride in this knowledge,
 because Anderson shares it with the viewer. For example, when the ending credits
 start to roll we are shown further sightings of Alice’s ghost. Anderson is not
 making fun of us for not having noticed her ghost before, he is telling us she
