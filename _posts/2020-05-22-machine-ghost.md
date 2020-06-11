@@ -54,7 +54,7 @@ an analogue emotion outruns it.
 Furthermore, Anderson pushes forward and displaces the viewer. A *mockumentary* is
 usually a function of something else. It’s in its nature to play with a set of
 rules and show the possibilities beyond them. *Lake Mungo* is in fact very much
-attracted to the rules of the documentary, but it bends them to reduce to the
+attracted to the rules of the documentary, but it bends them to reduce the
 distance between the viewer and the *facts*. Instead of unmasking the fake truth,
 it covers the real lie until the very end, while at the same time acknowledging
 the charms of fiction and how it can influence our thoughts. *Lake Mungo* knows
