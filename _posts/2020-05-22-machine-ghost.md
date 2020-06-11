@@ -61,7 +61,7 @@ the charms of fiction and how it can influence our thoughts. *Lake Mungo* knows
 that it is telling a story, and yet it takes no obtuse pride in this knowledge,
 because Anderson shares it with the viewer. For example, when the ending credits
 start to roll we are shown further sightings of Alice’s ghost. Anderson is not
-making fun of us for not having noticed her ghost before, he is telling us she
+making fun of us for not having noticed her ghost before. He is telling us she
 has always been a part of the story that we have just witnessed. A story after
 all.
 
