@@ -20,11 +20,11 @@ years later some of my favourite films are one-hundred percent digital.
 
 My most used critic back then was the supposed falseness in front of me. In
 linking digital technology with artificiality, I was relegating a promising tool
-to the status of trick, seeing its potential already fulfilled by special
-effects. This is why Joel Anderson’s *Lake Mungo* is such a fascinating film. By
-exploiting digital technology as a trick, Anderson exposes and enhances the
-limits of his images, forcing the viewer to accept visual shifts while coping
-with the content within.
+to the role of trick, seeing its potential already fulfilled by special effects.
+This is why Joel Anderson’s *Lake Mungo* is such a fascinating film. By exploiting
+digital technology as a trick, Anderson exposes and enhances the limits of his
+images, forcing the viewer to accept visual shifts while coping with the content
+within.
 
 *Lake Mungo* defeats the horror genre just like it defeats what one can expect
 from a ghost story. Anderson doesn’t use the *mockumentary* as a momentum-builder:
