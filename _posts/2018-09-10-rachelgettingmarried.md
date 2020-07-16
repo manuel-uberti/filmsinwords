@@ -8,11 +8,9 @@ categories: cinephilia
 A couple of days ago, I had the Blu-ray of *Rachel Getting Married* on while
 cooking dinner. It kept me company, and, even though I know it pretty well by
 now, it often took me away from the kitchen just to enjoy a particular sequence
-one more time. The next day, I went back to [Willow Maclay's
-piece](https://thefilmstage.com/features/rachel-getting-married-and-the-first-person-humanism-of-jonathan-demme/)
-for The Film Stage and [The Cinephiliacs' episode on Jonathan
-Demme](http://www.thecinephiliacs.net/2017/05/this-american-life-remembering-jonathan.html)
-to revisit the thoughts of my favourite film critics on my favourite Demme’s.
+one more time. The next day, I went back to [Willow Maclay's piece](https://thefilmstage.com/features/rachel-getting-married-and-the-first-person-humanism-of-jonathan-demme/) for The Film
+Stage and [The Cinephiliacs' episode on Jonathan Demme](http://www.thecinephiliacs.net/2017/05/this-american-life-remembering-jonathan.html) to revisit the thoughts of
+my favourite film critics on my favourite Demme’s.
 
 <!--more-->
 
@@ -40,8 +38,8 @@ subject of constant observation and judgement everywhere she goes. This is not
 only a modern mirror of our privacy-deprived lives, but to a certain extent is
 the peak of Demme’s psychological explorations of his characters.
 
-The camera in *Rachel Getting Married* invades spaces, inquisitively moves in
-and out of rooms and buildings, capturing and exposing actions and thoughts. It
+The camera in *Rachel Getting Married* invades spaces, inquisitively moves in and
+out of rooms and buildings, capturing and exposing actions and thoughts. It
 asks, even demands, attention from everyone. Secrecy is nowhere to be found,
 because the camera is a fierce and poignant extension of the spectator. It is as
 if we are rushing in with no desire of missing anything, while perfectly at ease
