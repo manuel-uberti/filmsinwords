@@ -19,7 +19,7 @@ that would be Todd Haynes’ *Carol*.
     <em>Carol (Todd Haynes, 2015)</em>
 </p>
 
-*Carol* is deceptively simpler than other relevant candidates to my number one
+*Carol* is seemingly simpler than other relevant candidates to my number one
 spot on the best of the 2010s list. It is not a culmination of stylistic
 explorations like Michael Mann’s *Blackhat* or Jia Zhangke’s *Mountains May
 Depart*. It is not a new way of narrating the social disaster we live in like
