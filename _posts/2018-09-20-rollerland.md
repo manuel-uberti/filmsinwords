@@ -9,8 +9,8 @@ Much as any cinephile out there, I have my ugly share of preconceptions. I try
 to hide them most of the times, but describing my approach to cinema as
 immaculate would be flat-out lying. For instance, it takes a good number of
 trustworthy reviews to get me to watch a Sundance Film Festival winner. Possibly
-worse in this day and age, it’s nearly impossible to convince me to sit and
-enjoy the latest hyped TV series.
+worse, it’s nearly impossible to convince me to sit and enjoy the latest hyped
+TV series.
 
 <!--more-->
 
