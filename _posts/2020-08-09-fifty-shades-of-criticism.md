@@ -18,12 +18,12 @@ I am not in the habit of doing is pointing my finger at the bad ones.
     <em>Fifty Shades of Grey (Sam Taylor-Johnson, 2015)</em>
 </p>
 
-What this piece aims to do is subverting a piece of writing which can barely
-call itself a review. Let’s call it a short-review to hide its blatant rant
-side. It’s a write-up on Sam Taylor-Johnson’s *Fifty Shades of Grey[^1]* which I am
-going to take apart paragraph by paragraph because I want to offer a different
-opinion, mostly an opposite one, on each and everyone of them. By the way,
-I wrote the words I am about to destroy.
+What this piece aims to do is subverting a writing which can barely call itself
+a review. Let’s call it a short-review to hide its blatant rant side. It’s a
+write-up on Sam Taylor-Johnson’s *Fifty Shades of Grey[^1]* which I am going to take
+apart paragraph by paragraph because I want to offer a different opinion, mostly
+an opposite one, on each and everyone of them. By the way, I wrote the words
+I am about to destroy.
 
 > First things first: I know nothing about the book, I know nothing about the
 > director, and I didn't even notice this film when it came out. There, my
