@@ -112,8 +112,9 @@ Taylor-Johnson builds spaces which reflect the emptiness of Christian. He uses
 objects as he uses women, and he discards them oblivious to their meaning and
 the reason of their presence. Cleanliness is coldness and that is what Christian
 is, framed in rooms so impersonal and detached from the reality of his mind. He
-is a stranger in warmer places as at his parents’ house, just like Anastasia
-never really fits in large spaces with no sense of humanity in them.
+is a stranger in warmer places as in, for instance, his parents’ house, just
+like Anastasia never really fits in large spaces with no sense of humanity in
+them.
 
 > Ōshima Nagisa and Bernardo Bertolucci paved the way for portrayals of sex and
 > intimacy beyond trite erotic fantasies. They grabbed the fantasies and pull them
