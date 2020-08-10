@@ -70,13 +70,12 @@ closeness once and for all.
 > interest in a bonding that never feels possible.
 
 There are two issues here, the first being really obvious. There is no
-“stiffness” to be found, and the supposed “coldness” was blindness to the
-subtleties in the acting. Jamie Dornan is the arrogant prick who lives in a
-world so far and away from our everyday one it takes a forceful act to tear it
-down. His smug conveys a self-assurance built on money and little else. The
-shift in emotions which Dornan translates with cracks on his face near the end
-are more effective than the thousand words he could have used to explain his
-behaviour.
+“stiffness” and the supposed “coldness” was blindness to the subtleties in the
+acting. Jamie Dornan is the arrogant prick who lives in a world so far and away
+from our everyday one it takes a forceful act to tear it down. His smug conveys
+a self-assurance built on money and little else. The shift in emotions which
+Dornan translates with cracks on his face near the end are more effective than
+the thousand words he could have used to explain his behaviour.
 
 Dakota Johnson goes even further. She starts by displaying on her face and with
 her body a seemingly total lack of confidence, but what lies beneath comes out
@@ -109,7 +108,7 @@ same time. This scene alone is enough to trash any accusation of “music video
 style”.
 
 Moreover, believability is not about how I can relate to the furniture.
-Taylor-Johnson builds spaces which reflects the emptiness of Christian. He uses
+Taylor-Johnson builds spaces which reflect the emptiness of Christian. He uses
 objects as he uses women, and he discards them oblivious to their meaning and
 the reason of their presence. Cleanliness is coldness and that is what Christian
 is, framed in rooms so impersonal and detached from the reality of his mind. He
