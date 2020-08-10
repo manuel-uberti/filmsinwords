@@ -73,7 +73,7 @@ There are two issues here, the first being really obvious. There is no
 “stiffness” and the supposed “coldness” was blindness to the subtleties in the
 acting. Jamie Dornan is the arrogant prick who lives in a world so far and away
 from our everyday one it takes a forceful act to tear it down. His smug conveys
-a self-assurance built on money and little else. The shift in emotions which
+a self-assurance built on money and little else. The shifts in emotions which
 Dornan translates with cracks on his face near the end are more effective than
 the thousand words he could have used to explain his behaviour.
 
