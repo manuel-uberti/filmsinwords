@@ -21,7 +21,7 @@ I am not in the habit of doing is pointing my finger at the bad ones.
 What this piece aims to do is subverting a writing which can barely call itself
 a review. Let’s call it a short-review to hide its blatant rant side. It’s a
 write-up on Sam Taylor-Johnson’s *Fifty Shades of Grey[^1]* which I am going to take
-apart paragraph by paragraph because I want to offer a different opinion, mostly
+apart paragraph by paragraph because I want to offer a another opinion, mostly
 an opposite one, on each and everyone of them. By the way, I wrote the words
 I am about to destroy.
 
@@ -49,10 +49,10 @@ the rest of the comment.
 
 As much as the meaning of the word *intimacy* is relevant to a film like *Fifty
 Shades of Grey*, this paragraph touches little of what Taylor-Johnson actually
-captures on the screen and it fails on different levels to read the images for
-what they offer. Intimacy is a beautiful thing, it is what is missing in the
-lives of Anastasia and Christian, and Taylor-Johnson works on this with her
-characters from different angles.
+captures on the screen and it fails to read the images for what they offer.
+Intimacy is a beautiful thing, it is what is missing in the lives of Anastasia
+and Christian, and Taylor-Johnson works on this with her characters from various
+angles.
 
 Anastasia is pure, virginal frailty, searching for the intimacy she has yet to
 experience. At every step of her relationship with Christian she moves further
