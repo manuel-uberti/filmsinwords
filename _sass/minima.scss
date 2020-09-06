@@ -1,25 +1,25 @@
 @charset "utf-8";
 
 @font-face {
-  font-family: 'Nunito';
-  src: url('../fonts/nunito-sans-v4-latin-regular.woff2') format('woff');
+  font-family: 'Inria Sans';
+  src: url('../fonts/InriaSans-Regular.woff2') format('woff');
 }
 
 @font-face {
-  font-family: 'Nunito';
-  src: url('../fonts/nunito-sans-v4-latin-italic.woff2') format('woff');
+  font-family: 'Inria Sans';
+  src: url('../fonts/InriaSans-Italic.woff2') format('woff');
   font-style: italic;
 }
 
 @font-face {
-  font-family: 'Nunito';
-  src: url('../fonts/nunito-sans-v4-latin-700.woff2') format('woff');
+  font-family: 'Inria Sans';
+  src: url('../fonts/InriaSans-Bold.woff2') format('woff');
   font-weight: 700;
 }
 
 // Define defaults for each variable.
 
-$base-font-family: 'Nunito', serif !default;
+$base-font-family: 'Inria Sans', serif !default;
 $base-font-size:   18px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
