@@ -10,7 +10,7 @@ of devastating infatuations, I did some crazy things. Acting foolish just to fi
 in, neglecting family reunions to feel like a rebel, weekly looking for the
 right clothes to show off my new personality with. The usual. I don’t regret
 being that kid, but one thing I do regret is doing something the full extent of
-which would hit me much later my life.
+which would hit me much later in my life.
 
 <!--more-->
 
