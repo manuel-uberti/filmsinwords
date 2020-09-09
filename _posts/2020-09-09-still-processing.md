@@ -62,10 +62,10 @@ she feels while working on the objective necessity of the past.
 
 At some point in *Still Processing* Romvari says that trauma is relative, which is
 true if we consider the specificity of it. After all, I have never experienced
-something along the line of what she has been through. However, *Still Processing*
-shows that trauma stops being relative whenever we are able to share how it
-affects us. Romvari opens the wounds for us to see with a grace that refuses
-commiseration and asks for empathy.
+something along the lines of what she has been through. However, *Still
+Processing* shows that trauma stops being relative whenever we are able to share
+how it affects us. Romvari opens the wounds for us to see with a grace that
+refuses commiseration and asks for empathy.
 
 ## Notes
 
