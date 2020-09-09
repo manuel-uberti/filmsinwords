@@ -49,7 +49,7 @@ of the images and filming how she does it, Romvari makes her, her family, and
 everyone else willing to be there with her short film, a part of a process that
 is bound be perpetual. We can learn to live with a loss of a dear one and go on
 with our lives, but can we really let it go? Someone or something could trigger
-memories unexpectedly, and how we face those memories is really up to us.
+memories unexpectedly, and how we face those memories is up to us.
 
 Romvari chooses to put her camera in front of the photos and the videotapes,
 presenting them along with her reaction and that of her brother. The past is
