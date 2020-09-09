@@ -54,11 +54,11 @@ memories unexpectedly, and how we face those memories is up to us.
 Romvari chooses to put her camera in front of the photos and the videotapes,
 presenting them along with her reaction and that of her brother. The past is
 alive again, the present never really free from it. It’s as if for her the
-images alone were not enough to comprehend the memories. Only by processing
-them, she is finally able to connect with her family, see how it was and what is
-lost. The fact that the images are as new to us as they are to her places us
-closer to where she stands. We are not her family, but we are as near as
-possible to what she feels while working on the objective necessity of the past.
+images alone were not enough to comprehend the memories. Only by processing them
+she is finally able to connect with her family, see how it was and what is lost.
+The fact that the images are as new to us as they are to her places us closer to
+where she stands. We are not her family, but we are as near as possible to what
+she feels while working on the objective necessity of the past.
 
 At some point in *Still Processing* Romvari says that trauma is relative, which is
 true if we consider the specificity of it. After all, I have never experienced
