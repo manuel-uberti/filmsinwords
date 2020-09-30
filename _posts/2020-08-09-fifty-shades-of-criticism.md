@@ -125,9 +125,9 @@ them.
 Taylor-Johnson’s work to a “trite erotic fantasy” is misreading it to say the
 least. It’s missing the meaning of fantasy entirely. *Fifty Shades of Grey* takes
 the fantasy of erotic pleasure and purges it of any satisfaction up to the point
-it becomes unbearable. Not because of what Taylor-Johnson chooses to show and
-not to show when portraying sex, but because what matters is the grey, not the
-shades.
+where it becomes unbearable. Not because of what Taylor-Johnson chooses to show
+and not to show when portraying sex, but because what matters is the grey, not
+the shades.
 
 ## Notes
 
