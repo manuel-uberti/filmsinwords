@@ -50,14 +50,14 @@ Here conversations, confessions, and reactions are not displayed in terms of an
 actress seemingly talking to us. They literally happen around us, just a turn of
 the head away. And there is always something going on at the periphery of our
 eyes and ears in *Rachel Getting Married*. Everywhere in the Buchman’s house
-people are getting ready for the wedding and playing music, talking and
+people are getting ready for the wedding and playing music, talking, and
 laughing. According to the Q&A in the Blu-ray, sometimes they don’t even know
 the camera is there. This adds a level of uncompromising truth to the general
 video-diary vibe that makes it possibly more personal and familiar than it
 already feels.
 
 The resulting experience becomes especially hurtful when we recognize
-Kym’s desperate attempts to gain back the love of his family, and realize that
+Kym’s desperate attempts to gain back the love of her family, and realize that
 we can do nothing. No matter how close to her we are put, we can never give her
 the much needed comfort. On the other hand, it’s an experience that enhances
 those precious moments of joy which rarely appear but prove fundamental at
