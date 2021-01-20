@@ -50,9 +50,9 @@ the rest of the comment.
 As much as the meaning of the word *intimacy* is relevant to a film like *Fifty
 Shades of Grey*, this paragraph touches little of what Taylor-Johnson actually
 captures on the screen and it fails to read the images for what they offer.
-Intimacy is a beautiful thing, it is what is missing in the lives of Anastasia
-and Christian, and Taylor-Johnson works on this with her characters from various
-angles.
+Intimacy is a beautiful thing, but it’s exactly what is missing in the lives of
+Anastasia and Christian, and Taylor-Johnson works on this with her characters
+from various angles.
 
 Anastasia is pure, virginal frailty, searching for the intimacy she has yet to
 experience. At every step of her relationship with Christian she moves further
