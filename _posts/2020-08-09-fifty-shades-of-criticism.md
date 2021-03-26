@@ -29,13 +29,13 @@ about to destroy[^1].
 > director, and I didn't even notice this film when it came out. There, my
 > ignorance on display.
 
-The problem with a start like this is that one feels they have to make sure the
-reader will not be offended or at least should enter prepared. Why retreat from
-the challenge with a poor display of humility? More importantly, why should the
-reader care about my knowledge of the book? Does my ignorance have any relevance
-to the words that follow? As we can see from the next paragraph I took a
-completely different road, so there doesn’t seem to be any relation at all with
-the rest of the comment.
+The problem with a start like this is that one feels that they have to make sure
+the reader will not be offended or at least should enter prepared. Why retreat
+from the challenge with a poor display of humility? More importantly, why should
+the reader care about my knowledge of the book? Does my ignorance have any
+relevance to the words that follow? As we can see from the next paragraph I took
+a completely different road, so there doesn’t seem to be any relation at all
+with the rest of the comment.
 
 > My problem with this kind of picture is that intimacy is one of the hardest, if
 > not the hardest, thing to get right in cinema. It's not a matter of showing off
