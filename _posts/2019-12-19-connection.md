@@ -50,19 +50,19 @@ gender-related topics, Haynes has all the reasons to be cynical.
 However, this is a cynicism that does not need to be shouted at the viewer. Most
 of *Carol* takes place between silent reactions. Therese acknowledges the world
 around her with feeble tilts of her head, slight changes on her face, hardly
-using words to express what she is feeling. Her personality seems contained in
-her gestures. Haynes does not seem interested in a silent film performance,
-though. He is simply trying to make sense of a world where love has to be feared
-and needs to be hidden away. It’s a world of little words spoken freely. Even
-Carol, with her strong personality and her commanding wisdom, does not really
-know what to say to Therese much of the time if not through her body. Maybe she
-is afraid to lose her, but she also knows the consequences of her desire. The
-two women do not perceive their relationship as something inherently wrong,
-because there is nothing wrong with love, but at the same time everyone blames
-them for what they are doing. Love is there from the beginning, but Therese
-battles to accept it, because the conventions of imposed masculinity are always
-in her way. Carol and Therese want, but they cannot. They only can if they
-abandon everything and live among themselves.
+using words to express what she feels. Her personality seems contained in her
+gestures. Haynes does not seem interested in a silent film performance, though.
+He is simply trying to make sense of a world where love has to be feared and
+needs to be hidden away. It’s a world of little words spoken freely. Even Carol,
+with her strong personality and her commanding wisdom, does not really know what
+to say to Therese much of the time if not through her body. Maybe she is afraid
+to lose her, but she also knows the consequences of her desire. The two women do
+not perceive their relationship as something inherently wrong, because there is
+nothing wrong with love, but at the same time everyone blames them for what they
+are doing. Love is there from the beginning, but Therese battles to accept it,
+because the conventions of imposed masculinity are always in her way. Carol and
+Therese want, but they cannot. They only can if they abandon everything and live
+among themselves.
 
 *Carol* explores the discovery of love and the progress of the relationship
 through senses. The viewer feels the surfaces as if touching them, not because
