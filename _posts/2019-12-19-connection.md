@@ -77,12 +77,12 @@ crave for. When on the road, their love deepens unhindered by how cheap or
 expensive the room they are in is. As long as men are not around, the issue is
 not where or how.
 
-Sight is another important and richly covered sense. *Carol* lives thanks to
-eyes and looks. The first lunch Carol and Therese have together is all about how
-they perceive each other and how this perception informs them. There is already
+Sight is another important and richly covered sense. *Carol* lives thanks to eyes
+and looks. The first lunch Carol and Therese have together is all about how they
+perceive each other and how this perception informs them. There is already
 passion underneath those looks, but it’s more of a systematic and yet gentle
 search for a possible kindred spirit. Is it there? Am I reaching out for
-something real? Carol’s and Therese’s eyes tentatively inspects what is in front
+something real? Carol’s and Therese’s eyes tentatively inspect what is in front
 of them, telling more about the affection they are trying to conceal than the
 mind would want to reveal. On the other hand, men look down on women as if to
 constantly remind them of their social position. Men’s eyes are angry and
