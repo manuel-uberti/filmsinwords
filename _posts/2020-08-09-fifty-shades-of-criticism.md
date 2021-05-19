@@ -131,4 +131,4 @@ the shades.
 
 ## Notes
 
-[^1]: [https://letterboxd.com/muberti/film/fifty-shades-of-grey](https://letterboxd.com/muberti/film/fifty-shades-of-grey)
+[^1]: The comment was originally published on Letterboxd.
